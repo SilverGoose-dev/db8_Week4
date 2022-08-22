@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\ListOfObjects\bin\Debug\net6.0\ListOfObjects.exe
+C:\Grand Circus\Week4\ListOfObjects\bin\Debug\net6.0\ListOfObjects.deps.json
+C:\Grand Circus\Week4\ListOfObjects\bin\Debug\net6.0\ListOfObjects.runtimeconfig.json
+C:\Grand Circus\Week4\ListOfObjects\bin\Debug\net6.0\ListOfObjects.dll
+C:\Grand Circus\Week4\ListOfObjects\bin\Debug\net6.0\ListOfObjects.pdb
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfo.cs
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.dll
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\refint\ListOfObjects.dll
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.pdb
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ListOfObjects.genruntimeconfig.cache
+C:\Grand Circus\Week4\ListOfObjects\obj\Debug\net6.0\ref\ListOfObjects.dll

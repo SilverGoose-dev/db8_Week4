@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\ListInitConstruct\bin\Debug\net6.0\ListInitConstruct.exe
+C:\Grand Circus\Week4\ListInitConstruct\bin\Debug\net6.0\ListInitConstruct.deps.json
+C:\Grand Circus\Week4\ListInitConstruct\bin\Debug\net6.0\ListInitConstruct.runtimeconfig.json
+C:\Grand Circus\Week4\ListInitConstruct\bin\Debug\net6.0\ListInitConstruct.dll
+C:\Grand Circus\Week4\ListInitConstruct\bin\Debug\net6.0\ListInitConstruct.pdb
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.AssemblyInfo.cs
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.dll
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\refint\ListInitConstruct.dll
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.pdb
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ListInitConstruct.genruntimeconfig.cache
+C:\Grand Circus\Week4\ListInitConstruct\obj\Debug\net6.0\ref\ListInitConstruct.dll

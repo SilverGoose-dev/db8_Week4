@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\DateTimePractice\bin\Debug\net6.0\DateTimePractice.exe
+C:\Grand Circus\Week4\DateTimePractice\bin\Debug\net6.0\DateTimePractice.deps.json
+C:\Grand Circus\Week4\DateTimePractice\bin\Debug\net6.0\DateTimePractice.runtimeconfig.json
+C:\Grand Circus\Week4\DateTimePractice\bin\Debug\net6.0\DateTimePractice.dll
+C:\Grand Circus\Week4\DateTimePractice\bin\Debug\net6.0\DateTimePractice.pdb
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.AssemblyInfo.cs
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.dll
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\refint\DateTimePractice.dll
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.pdb
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\DateTimePractice.genruntimeconfig.cache
+C:\Grand Circus\Week4\DateTimePractice\obj\Debug\net6.0\ref\DateTimePractice.dll
