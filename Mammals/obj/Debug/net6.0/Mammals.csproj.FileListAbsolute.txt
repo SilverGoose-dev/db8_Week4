@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\Mammals\bin\Debug\net6.0\Mammals.exe
+C:\Grand Circus\Week4\Mammals\bin\Debug\net6.0\Mammals.deps.json
+C:\Grand Circus\Week4\Mammals\bin\Debug\net6.0\Mammals.runtimeconfig.json
+C:\Grand Circus\Week4\Mammals\bin\Debug\net6.0\Mammals.dll
+C:\Grand Circus\Week4\Mammals\bin\Debug\net6.0\Mammals.pdb
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.AssemblyInfo.cs
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.dll
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\refint\Mammals.dll
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.pdb
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\Mammals.genruntimeconfig.cache
+C:\Grand Circus\Week4\Mammals\obj\Debug\net6.0\ref\Mammals.dll

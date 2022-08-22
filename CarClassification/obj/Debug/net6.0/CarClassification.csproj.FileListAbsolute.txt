@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\CarClassification\bin\Debug\net6.0\CarClassification.exe
+C:\Grand Circus\Week4\CarClassification\bin\Debug\net6.0\CarClassification.deps.json
+C:\Grand Circus\Week4\CarClassification\bin\Debug\net6.0\CarClassification.runtimeconfig.json
+C:\Grand Circus\Week4\CarClassification\bin\Debug\net6.0\CarClassification.dll
+C:\Grand Circus\Week4\CarClassification\bin\Debug\net6.0\CarClassification.pdb
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.AssemblyInfo.cs
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.dll
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\refint\CarClassification.dll
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.pdb
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\CarClassification.genruntimeconfig.cache
+C:\Grand Circus\Week4\CarClassification\obj\Debug\net6.0\ref\CarClassification.dll

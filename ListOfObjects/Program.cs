@@ -49,4 +49,10 @@ class Rectangle
     {
         return $"{Name}: {Length}x{Height},  Area = {Length}*{Height}";
     }
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+
+    }
 }

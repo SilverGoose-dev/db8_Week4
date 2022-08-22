@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\Lab 4.1 RPG\bin\Debug\net6.0\Lab 4.1 RPG.exe
+C:\Grand Circus\Week4\Lab 4.1 RPG\bin\Debug\net6.0\Lab 4.1 RPG.deps.json
+C:\Grand Circus\Week4\Lab 4.1 RPG\bin\Debug\net6.0\Lab 4.1 RPG.runtimeconfig.json
+C:\Grand Circus\Week4\Lab 4.1 RPG\bin\Debug\net6.0\Lab 4.1 RPG.dll
+C:\Grand Circus\Week4\Lab 4.1 RPG\bin\Debug\net6.0\Lab 4.1 RPG.pdb
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.AssemblyInfo.cs
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.dll
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\refint\Lab 4.1 RPG.dll
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.pdb
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\Lab 4.1 RPG.genruntimeconfig.cache
+C:\Grand Circus\Week4\Lab 4.1 RPG\obj\Debug\net6.0\ref\Lab 4.1 RPG.dll
