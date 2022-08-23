@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\bin\Debug\net6.0\Lab 4.2 Used Car Lot.exe
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\bin\Debug\net6.0\Lab 4.2 Used Car Lot.deps.json
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\bin\Debug\net6.0\Lab 4.2 Used Car Lot.runtimeconfig.json
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\bin\Debug\net6.0\Lab 4.2 Used Car Lot.dll
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\bin\Debug\net6.0\Lab 4.2 Used Car Lot.pdb
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.AssemblyInfo.cs
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.dll
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\refint\Lab 4.2 Used Car Lot.dll
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.pdb
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\Lab 4.2 Used Car Lot.genruntimeconfig.cache
+C:\Grand Circus\Week4\Lab 4.2 Used Car Lot\obj\Debug\net6.0\ref\Lab 4.2 Used Car Lot.dll

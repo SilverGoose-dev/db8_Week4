@@ -29,7 +29,7 @@ static void Menu()
     Console.WriteLine("     -----------------------------------------------------");
     Console.WriteLine();
     Console.WriteLine("         |------------------------------------------------/    ");
-    Console.WriteLine("0========|-----O -- O ---------------                    /     ");
+    Console.WriteLine("0========|---- O -- O ---------------                    /     ");
     Console.WriteLine("         |----------------------------------------------/      ");
     Console.WriteLine("");
 
@@ -70,7 +70,6 @@ class Warrior : GameCharacter
 
 }
 
-
 class MagicUsingCharacter : GameCharacter
 {
     public int magicEnergy;
@@ -85,7 +84,6 @@ class MagicUsingCharacter : GameCharacter
         Console.WriteLine("You will never see this line either!");
     }
 }
-
 
 class Wizard : MagicUsingCharacter
 {

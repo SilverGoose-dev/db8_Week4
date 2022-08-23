@@ -8,19 +8,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore.txt = .gitignore.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePractice", "DateTimePractice\DateTimePractice.csproj", "{5FBCA31F-A283-4987-BD09-B0600B8C147B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimePractice", "DateTimePractice\DateTimePractice.csproj", "{5FBCA31F-A283-4987-BD09-B0600B8C147B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListInitConstruct", "ListInitConstruct\ListInitConstruct.csproj", "{F777E422-5251-4F7C-9447-654B85CB5BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListInitConstruct", "ListInitConstruct\ListInitConstruct.csproj", "{F777E422-5251-4F7C-9447-654B85CB5BDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListInitConstruct2", "ListInitConstruct2\ListInitConstruct2.csproj", "{364EC56C-7B2B-4CB5-A4D9-570186E7B5BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListInitConstruct2", "ListInitConstruct2\ListInitConstruct2.csproj", "{364EC56C-7B2B-4CB5-A4D9-570186E7B5BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfObjects", "ListOfObjects\ListOfObjects.csproj", "{8B75E7E7-53B7-4535-B97A-BDF76EAFE3BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfObjects", "ListOfObjects\ListOfObjects.csproj", "{8B75E7E7-53B7-4535-B97A-BDF76EAFE3BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mammals", "Mammals\Mammals.csproj", "{CC852E8C-F916-4BBA-AB6E-874FED8EBA5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mammals", "Mammals\Mammals.csproj", "{CC852E8C-F916-4BBA-AB6E-874FED8EBA5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClassification", "CarClassification\CarClassification.csproj", "{29BFF044-64C3-4851-955C-64F5CC34BCAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarClassification", "CarClassification\CarClassification.csproj", "{29BFF044-64C3-4851-955C-64F5CC34BCAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 4.1 RPG", "Lab 4.1 RPG\Lab 4.1 RPG.csproj", "{E638B761-7FB4-4020-9A0C-F329755CF09D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 4.1 RPG", "Lab 4.1 RPG\Lab 4.1 RPG.csproj", "{E638B761-7FB4-4020-9A0C-F329755CF09D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaApp", "MediaApp\MediaApp.csproj", "{F045FF9C-5541-4522-BBBD-4022823EDC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 4.2 Used Car Lot", "Lab 4.2 Used Car Lot\Lab 4.2 Used Car Lot.csproj", "{72DC1805-88D3-4684-90A8-3EF5797A7EAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +60,14 @@ Global
 		{E638B761-7FB4-4020-9A0C-F329755CF09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E638B761-7FB4-4020-9A0C-F329755CF09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E638B761-7FB4-4020-9A0C-F329755CF09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F045FF9C-5541-4522-BBBD-4022823EDC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F045FF9C-5541-4522-BBBD-4022823EDC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F045FF9C-5541-4522-BBBD-4022823EDC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F045FF9C-5541-4522-BBBD-4022823EDC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DC1805-88D3-4684-90A8-3EF5797A7EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DC1805-88D3-4684-90A8-3EF5797A7EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DC1805-88D3-4684-90A8-3EF5797A7EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DC1805-88D3-4684-90A8-3EF5797A7EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

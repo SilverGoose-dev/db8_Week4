@@ -1,0 +1,15 @@
+C:\Grand Circus\Week4\MediaApp\bin\Debug\net6.0\MediaApp.exe
+C:\Grand Circus\Week4\MediaApp\bin\Debug\net6.0\MediaApp.deps.json
+C:\Grand Circus\Week4\MediaApp\bin\Debug\net6.0\MediaApp.runtimeconfig.json
+C:\Grand Circus\Week4\MediaApp\bin\Debug\net6.0\MediaApp.dll
+C:\Grand Circus\Week4\MediaApp\bin\Debug\net6.0\MediaApp.pdb
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.csproj.AssemblyReference.cache
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.AssemblyInfoInputs.cache
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.AssemblyInfo.cs
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.dll
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\refint\MediaApp.dll
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.pdb
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\MediaApp.genruntimeconfig.cache
+C:\Grand Circus\Week4\MediaApp\obj\Debug\net6.0\ref\MediaApp.dll
