@@ -23,10 +23,15 @@ Console.ReadLine();
 
 static void Menu()
 {
-    Console.WriteLine("            ***WELCOME TO THE DB RPG***");
-    Console.WriteLine("-----------------------------------------------------");
-    Console.WriteLine("|     Press any key to show list of Characters      |");
-    Console.WriteLine("-----------------------------------------------------");
+    Console.WriteLine("                 ***WELCOME TO THE DB RPG***");
+    Console.WriteLine("     -----------------------------------------------------");
+    Console.WriteLine("     |     Press any key to show list of Characters      |");
+    Console.WriteLine("     -----------------------------------------------------");
+    Console.WriteLine();
+    Console.WriteLine("         |------------------------------------------------/    ");
+    Console.WriteLine("0========|-----O -- O ---------------                    /     ");
+    Console.WriteLine("         |----------------------------------------------/      ");
+    Console.WriteLine("");
 
 }
 
